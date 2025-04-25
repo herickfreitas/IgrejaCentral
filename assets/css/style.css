@@ -1567,3 +1567,11 @@ section {
     padding-top: 4px;
   }
 }
+
+.center
+    {
+        display:         flex;
+        display: -webkit-flex;
+        justify-content: center;
+        align-items: center;
+    }

@@ -240,6 +240,7 @@
   /**
    * Animation on scroll
    */
+  
   window.addEventListener('load', () => {
     AOS.init({
       duration: 1000,
